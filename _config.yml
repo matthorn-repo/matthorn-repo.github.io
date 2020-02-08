@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Matt Horn
-title: Software Engineer
+job_title: Software Engineer
 email: matt@matthorn.io
 phone: 1.650.660.3770
 website: https://matthorn.io
@@ -97,8 +97,7 @@ plugins:
  - jekyll-seo-tag
 
 image: images/siteimage.jpg
-tagline: Matt Horn
-description: Matt Horn - Software Engineer
+title: Matt Horn - Software Engineer
 
 exclude : [
   "Gemfile",
