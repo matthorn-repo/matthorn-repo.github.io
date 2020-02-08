@@ -1,56 +1,93 @@
 # Site
-repository: sproogen/resume-theme
+repository: matthorn-repo/matthorn-repo.github.io
 favicon: images/favicon.ico
 
 # Personal info
 name: Matt Horn
 title: Software Engineer
 email: matt@matthorn.io
-website: matthorn.io
+phone: 1.650.660.3770
+website: https://matthorn.io
+
+darkmode: true
 
 # Social links
-# twitter_username: facespics
 github_username:  matthorn-repo
-# dribbble_username: jekyll
 facebook_username: matt.horn.359
-# flickr_username: jekyll
 instagram_username: matt.horn.22
 linkedin_username: matt-horn-718611197
+# twitter_username: jekyllrb
+# github_username:  jekyll
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+# youtube_username: jekyll
 # googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Matt and I'm a software engineer. Most of my expertise is with large scale software design
-  and implementation at companies like <mark>Amazon</mark> and <mark>Google</mark>. I'm an AWS Certified Soltuions Architect and
-  I also have experience with Google cloud. I love solving backend design problems for systems that need
-  to scale fast.
+  Hi, I'm Matt. I'm a software engineer in Denver, Colorado. Most of my work is with large scale software design
+  and implementation at companies like Amazon and Google. I'm an <mark>AWS</mark> Certified Soltuions Architect and
+  I also have experience with Google Cloud Platform. I love solving backend design problems for systems that need
+  to scale fast. If you have any questions, feel free to reach out.
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images
+
 # Projects Section
-# projects_title: Projects
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience
+# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# educaton_title: Education
+# education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me
+# more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  I live in Colorado and have a dog named Atlas. When I'm not writing code, you'll find me:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  When I'm not writing code, you'll probably find me somewhere outside when it's warm. I live in Colorado
+  love exploring the beautiful new parts of this state with my dog Atlas.
 
+  I'm experienced in the following languages:
+  -  Java
+  -  Python
+  -  SQL
+  -  JavaScript
+  -  ... and may others, just ask me!
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -58,3 +95,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
