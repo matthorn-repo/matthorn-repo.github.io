@@ -96,7 +96,7 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-image: images/siteimage.jpg
+image: images/siteimage_2.jpg
 title: Matt Horn - Software Engineer
 description: matthorn.io
 tagline: matthorn.io
