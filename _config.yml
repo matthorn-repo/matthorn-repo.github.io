@@ -96,6 +96,10 @@ sass:
 plugins:
  - jekyll-seo-tag
 
+image: images/siteimage.png
+tite: matthorn.io
+tagline: Matt Horn | Softare Engineer
+
 exclude : [
   "Gemfile",
   "Gemfile.lock",
