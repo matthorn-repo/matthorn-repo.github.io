@@ -98,6 +98,8 @@ plugins:
 
 image: images/siteimage.jpg
 title: Matt Horn - Software Engineer
+description: matthorn.io
+tagline: matthorn.io
 
 exclude : [
   "Gemfile",
