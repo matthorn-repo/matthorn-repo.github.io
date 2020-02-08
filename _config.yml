@@ -98,7 +98,8 @@ plugins:
 
 image: images/siteimage.png
 tite: matthorn.io
-tagline: Matt Horn | Softare Engineer
+tagline: Matt Horn
+description: Matt Horn - Software Engineer
 
 exclude : [
   "Gemfile",
