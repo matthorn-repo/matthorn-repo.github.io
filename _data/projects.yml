@@ -1,10 +1,10 @@
 # Project template
 - layout: top-middle
-  name: Undergratuate Research Project at University of Texas at Dallas
+  name: Undergraduate Research Project at University of Texas at Dallas
   link: https://ieeexplore.ieee.org/document/6901644
   quote: >
     Evaluating Software Safety Standards: A Systematic Review and Comparison
   description: | # this will include new lines to allow paragraphs
-    Researched and contirubuted to a publication on IEEE of a systematic evaluation
-    and comparison of software engineering safety standards from various instututions,
+    Researched and contributed to a publication on IEEE of a systematic evaluation
+    and comparison of software engineering safety standards from various institutions,
     cross-referenced their compliance with a set of best-practices realized from software-related accidents

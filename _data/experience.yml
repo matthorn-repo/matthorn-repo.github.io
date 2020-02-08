@@ -8,10 +8,14 @@
     I add new features to Amazon.com using AWS and Java
   description: | # this will include new lines to allow paragraphs
     Designs and implements software technology for Amazon.com's retail
-    stack in accordance with strict requirements for sclability & reliability
+    stack in accordance with strict requirements for scalability & reliability
     over peak sales periods. Balances requirements for the health of the
     long-term software lifecycle with customer needs in the short term.
     Works primarily with Java, Python, Javascript and Amazon Web Services.
+
+    To validate my AWS certificate, visit
+    <a class="link" href="https://aw.certmetrics.com/amazon/public/verification.aspx" target="_blank">this website</a> and use
+    validation number <code>G95VLM123E1EQL5G</code>.
 - layout: left
   company: Google
   link: http://www.google.com
@@ -21,7 +25,7 @@
    I helped keep Google's financial systems running and worked on the Street View team
   description: | # this will include new lines to allow paragraphs
     Architected and implemented software technologies for the next
-    billion users- including systems for financial regulatory complaince
+    billion users- including systems for financial regulatory compliance
     of all of Google's payment transactions, research and development
     of testing, as well as work on the next generation of Google Street View.
 - layout: left

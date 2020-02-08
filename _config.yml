@@ -50,9 +50,9 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Matt. I'm a software engineer in Denver, Colorado. Most of my work is with large scale software design
-  and implementation at companies like Amazon and Google. I'm an <mark>AWS</mark> Certified Soltuions Architect and
-  I also have experience with Google Cloud Platform. I love solving backend design problems for systems that need
-  to scale fast. If you have any questions, feel free to reach out.
+  and implementation at companies such as Amazon and Google. I'm an <mark>Amazon Web Services</mark> Certified Solutions Architect
+  and I also have experience with <mark>Google Cloud Platform</mark>.
+  I love solving backend design problems for systems that need to scale fast. If you have any questions, feel free to reach out.
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 # You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
