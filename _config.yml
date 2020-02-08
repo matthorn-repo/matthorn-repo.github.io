@@ -74,14 +74,14 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   When I'm not writing code, you'll probably find me somewhere outside when it's warm. I live in Colorado
-  love exploring the beautiful new parts of this state with my dog Atlas.
+  and love exploring the beautiful new parts of this state with my dog Atlas.
 
   I'm experienced in the following languages:
   -  Java
   -  Python
   -  SQL
   -  JavaScript
-  -  ... and may others, just ask me!
+  -  ... and many others, just ask me
 # Footer
 footer_show_references: true
 
