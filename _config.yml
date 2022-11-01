@@ -46,12 +46,15 @@ google_analytics: "UA-158027031-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software engineer specializing in scalable, reliable and performant system design and development.
+  Hi! I'm Matt. I'm a Tech Lead and Software engineer specializing in scalable, reliable and performant system design and development.
+  
+  I enjoy mentoring engineers, designing scalable systems, and aliging project goals with organizational problems. 
+  
   With experience on a variety of global-scale systems, including work at both Google and Amazon, I enjoy implementing
   cost-effective software systems to meet the needs of growing businesses.
-  My work includes low latency APIs, efficient large-scale batch data processing using systems such as MapReduce and Spark, along
-  with scalable and responsive database design on a variety of platforms including Google Cloud Spanner and DynamoDB. I design and implement code with
-  a strong emphasis on Object-Oriented design principles and testability.
+  My work includes low latency APIs, microservices, efficient large-scale batch data processing using systems such as MapReduce and Spark, along
+  with scalable and responsive database design on a variety of platforms including AWS and Google Cloud Platform.
+  I design and implement code with a strong emphasis on Object-Oriented design principles and testability.
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 # You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
@@ -74,6 +77,8 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   When I'm not writing code, you'll probably find me somewhere outside when it's warm. I live in Colorado
   with my life partner Collin, and love exploring the beautiful new parts of this state with my dogs Atlas and Kapua.
+  
+  Reach out if you'd like to chat!
 # Footer
 footer_show_references: true
 
