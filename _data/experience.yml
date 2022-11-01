@@ -9,7 +9,7 @@
     I work on the AWS Identity platform for Tagging and Tagging Governance
     
     For more information, see
-    <a class="link" href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies.html>this</a>.
+    <a class="link" href="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies.html" target="_blank">this</a>.
 - layout: left
   company: Twilio
   date: July 2021 - October 2022
@@ -19,7 +19,7 @@
     Modernized Twilio's core API-based billing and usage system.
     
     For more information about the project see
-    <a class="link" href="https://aws.amazon.com/blogs/database/how-twilio-modernized-its-billing-platform-on-amazon-aurora-mysql/>this</a>.
+    <a class="link" href="https://aws.amazon.com/blogs/database/how-twilio-modernized-its-billing-platform-on-amazon-aurora-mysql/" target="_blank">this</a>.
   description: | # this will include new lines to allow paragraphs
 - layout: left
   company: Amazon
@@ -48,7 +48,7 @@
 #  quote: >
 #   I did contract web development for a variety of clients
   description: | # this will include new lines to allow paragraphs
-    Implemented customer-facing, full-stack enterprise web applications for
+    I implemented customer-facing, full-stack enterprise web applications for
     clients with tight deadlines using Java, Salesforce, REST APIs and Javascript.
     Gathered requirements from clients and scopes works using Agile and Scrum to
     increase visibility into developer velocity.
