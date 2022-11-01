@@ -1,16 +1,18 @@
 .dark,
 .dark * {
-  background-color: #2b363d;
-  color: #ccc;
+  background-color: #616b70;
+  color: #e6e7e8;
 }
 
 .dark {
   mark {
-    color: #2b363d;
-    background-color: #ccc;
+    color: #616b70;
+    background-color: #e6e7e8;
   }
 
   a {
-    color: #477dca;
+    color: #ebecec;
+    text-decoration-line: underline;
+    font-weight: 500;
   }
 }
