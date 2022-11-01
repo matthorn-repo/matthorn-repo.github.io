@@ -15,12 +15,12 @@
   date: July 2021 - October 2022
   link: http://www.twilio.com
   job_title: Staff Software Engineer
-  description: >
+  #quote: >
+  description: |
     Modernized Twilio's core API-based billing and usage system.
     
     For more information about the project see
     <a class="link" href="https://aws.amazon.com/blogs/database/how-twilio-modernized-its-billing-platform-on-amazon-aurora-mysql/" target="_blank">this</a>.
-  description: | # this will include new lines to allow paragraphs
 - layout: left
   company: Amazon
   date: July 2019 - July 2021
