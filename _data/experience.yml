@@ -25,16 +25,16 @@
   job_title: Software Development Engineer II
   quote: >
     Added features to Amazon.com using AWS and Java
-  description: | # this will include new lines to allow paragraphs
-    Designed and implemented software technology for Amazon.com's retail
-    stack in accordance with strict requirements for scalability & reliability
-    over peak sales periods. Balances requirements for the health of the
-    long-term software lifecycle with customer needs in the short term.
-    Works primarily with Java, Python, Javascript and Amazon Web Services.
+  # description: | # this will include new lines to allow paragraphs
+  #   Designed and implemented software technology for Amazon.com's retail
+  #   stack in accordance with strict requirements for scalability & reliability
+  #   over peak sales periods. Balances requirements for the health of the
+  #   long-term software lifecycle with customer needs in the short term.
+  #   Works primarily with Java, Python, Javascript and Amazon Web Services.
 
-    To validate my AWS certificate, visit
-    <a class="link" href="https://aw.certmetrics.com/amazon/public/verification.aspx" target="_blank">this website</a> and use
-    validation number <code>G95VLM123E1EQL5G</code>.
+  #   To validate my AWS certificate, visit
+  #   <a class="link" href="https://aw.certmetrics.com/amazon/public/verification.aspx" target="_blank">this website</a> and use
+  #   validation number <code>G95VLM123E1EQL5G</code>.
 - layout: left
   company: Google
   date: Dec 2015 - June 2019
@@ -42,11 +42,11 @@
   job_title: Software Engineer
   quote: >
    Kept Google's financial and regulatory compliance systems running and worked on the Street View team
-  description: | # this will include new lines to allow paragraphs
-    Architected and implemented software technologies for the next
-    billion users- including systems for financial regulatory compliance
-    of all of Google's payment transactions, research and development
-    of testing, as well as work on the next generation of Google Street View.
+  # description: | # this will include new lines to allow paragraphs
+  #   Architected and implemented software technologies for the next
+  #   billion users- including systems for financial regulatory compliance
+  #   of all of Google's payment transactions, research and development
+  #   of testing, as well as work on the next generation of Google Street View.
 - layout: left
   company: Trifecta Technologies
   date: Dec 2014 - Dec 2015
@@ -54,8 +54,8 @@
   job_title: Software Developer
   quote: >
    I did contract web development for a variety of clients
-  description: | # this will include new lines to allow paragraphs
-    Implemented customer-facing, full-stack enterprise web applications for
-    clients with tight deadlines using Java, Salesforce, REST APIs and Javascript.
-    Gathered requirements from clients and scopes works using Agile and Scrum to
-    increase visibility into developer velocity.
+  # description: | # this will include new lines to allow paragraphs
+  #   Implemented customer-facing, full-stack enterprise web applications for
+  #   clients with tight deadlines using Java, Salesforce, REST APIs and Javascript.
+  #   Gathered requirements from clients and scopes works using Agile and Scrum to
+  #   increase visibility into developer velocity.
