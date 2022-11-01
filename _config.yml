@@ -44,7 +44,7 @@ google_analytics: "UA-158027031-1"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-# about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Software engineer specializing in scalable, reliable and performant system design and development.
   With experience on a variety of global-scale systems, including work at both Google and Amazon, I enjoy implementing
