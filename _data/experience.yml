@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
   company: AWS
-  dates: November 2021 - Present
+  date: November 2021 - Present
   link: https://aws.amazon.com/
   job_title: Senior Software Engineer (SDE III)
-  #quote: >
+  quote: > Denver, CO
   description: | # this will include new lines to allow paragraphs
     I work on the AWS Identity platform for Tagging and Tagging Governance
     
